@@ -3,7 +3,7 @@ Website for The Pizza Mania Shop.
 
 # The Pizza Mania Shop Website
 
-This repository contains the source code for the website of The Pizza Mania Shop, a fictional pizza restaurant. The website provides information about the restaurant, its menu, contact details, and store hours. It's a static website built using HTML and CSS.
+This repository contains the source code for the website of The Pizza Mania Shop, a fictional pizza restaurant. The website provides information about the restaurant, its menu, contact details, and store hours. It's a static website built using HTML.
 
 ## Features
 
@@ -20,7 +20,6 @@ The website includes the following key features:
 This project is primarily built using:
 
 * **HTML:** For structuring the content and layout of the website.
-* **CSS:** For styling the website and making it visually appealing.
 
 ## Project Structure
 pizza-mania-shop/
